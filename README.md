@@ -1,6 +1,6 @@
 # 🧠 JarviX – AI Voice. Code. Control.
 
-### ⚙️ Python-Powered by [Abhi-Coder](https://github.com/your-username)
+### ⚙️ Python-Powered by [Abhi-Coder](https://github.com/abhithakjutre/abhithakjutre/blob/main/README.md)
 
 ---
 
