@@ -89,4 +89,6 @@ Please give credit when sharing or modifying.
 ```
 💬 “Speak it. Code it. Control it — with JarviX.”
 
-<center> ⏱️ Comming Soon...</center>
+<p align="center">
+  🕤⏳ <b> Coming Soon...</b> 🔥
+</p>
