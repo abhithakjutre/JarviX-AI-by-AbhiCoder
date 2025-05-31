@@ -45,6 +45,8 @@
 
 > **JarviX** welcomes you with a futuristic, hacker-style interface.  
 > Speak, code, and control your system with voice and automation!
+## 🎥 Video Tutorial
+[ 🔗 JarviX Video Tutorial](https://drive.google.com/file/d/1-A9QBBYcNhMZfk0ePt827KIaiMHcOTYX/view?usp=drivesdk)
 
 ## 📁 Project Structure
 ```bash
