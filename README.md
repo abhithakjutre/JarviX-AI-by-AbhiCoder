@@ -34,13 +34,13 @@
 ## 🚦 JarviX Preview
 
 <p align="center">
-  <b>Splash/Login Screen</b><br>
-  <img src="jarvix_splash.png" alt="JarviX Splash" width="400" />
+  <b>Home Main</b><br>
+  <img src="main.png" alt="JarviX Splash" width="400" />
 </p>
 
 <p align="center">
-  <b>Main Dashboard</b><br>
-  <img src="assets/jarvix_dashboard.png" alt="JarviX Dashboard" width="400" />
+  <b>Dashboard</b><br>
+  <img src="dashboard.png" alt="JarviX Dashboard" width="400" />
 </p>
 
 > **JarviX** welcomes you with a futuristic, hacker-style interface.  
