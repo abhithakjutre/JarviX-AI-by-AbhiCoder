@@ -82,6 +82,13 @@ python main.py
 Abhi-Coder
 Python Programmer • Automation Enthusiast • Creator of JarviX
 
+### 👤 Author
+
+- **Name:** Abhishek Thakur  
+- **Email:** [abhishekthakur202398@gmail.com](mailto:abhishekthakur202398@gmail.com)  
+- **GitHub:** [github.com/abhithakjutre](https://github.com/abhithakjutre)  
+- **Portfolio:** [abhithakur-portfolio.netlify.app](https://abhithakur-portfolio.netlify.app/)
+
 📄 License
 ```bash
 This project is free to use for personal and educational purposes.
